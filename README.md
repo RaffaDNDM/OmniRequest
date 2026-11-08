@@ -25,13 +25,13 @@ Run the tool from your terminal:
 omnirequest
 ```
 
-<img width="930" height="336" alt="image" src="https://github.com/user-attachments/assets/7f16bf5f-a4d0-43d1-a3cc-3f58b218b4f5" />
+![](https://3928478158-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhjMjdRXwO33Lfo7uCpl6%2Fuploads%2Fgit-blob-127e9efa06d3b717d66482e88030a11187423691%2Fomnirequest-run.png?alt=media)
 
 Then open your browser at `http://127.0.0.1:5001`.
 
-<img width="1318" height="812" alt="image" src="https://github.com/user-attachments/assets/d2cc0349-7445-4f49-9c27-624f83b22fa0" />
+![](https://3928478158-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhjMjdRXwO33Lfo7uCpl6%2Fuploads%2Fgit-blob-26bab1259150f3ae0712675c6e7f745410a62705%2Fomnirequest-webapp.png?alt=media)
 
 
 ## Help
 
-<img width="487" height="164" alt="image" src="https://github.com/user-attachments/assets/0abc01fb-0fa7-400e-b89e-7355041ae867" />
+![](https://3928478158-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhjMjdRXwO33Lfo7uCpl6%2Fuploads%2Fgit-blob-7fb8e0028b8a25a899427d6638877a096dfef09a%2Fomnirequest-help.png?alt=media)
