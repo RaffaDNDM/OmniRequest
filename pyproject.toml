@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=61.0.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "omnirequest"
+version = "1.0.0"
+description = "A sleek self-hosted Flask utility to convert raw HTTP requests into multiple programming languages and libraries."
+readme = "README.md"
+authors = [
+    { name = "RaffaDNDM", }
+]
+license = { text = "MIT" }
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Framework :: Flask",
+]
+requires-python = ">=3.8"
+dependencies = [
+    "Flask>=2.0.0"
+]
+
+[project.scripts]
+omnirequest = "omnirequest.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/RaffaDNDM/OmniRequest"
