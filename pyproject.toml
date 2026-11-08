@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "omnirequest"
-version = "1.0.0"
+version = "1.0.0.post1"
 description = "A sleek self-hosted Flask utility to convert raw HTTP requests into multiple programming languages and libraries."
 readme = "README.md"
 authors = [
